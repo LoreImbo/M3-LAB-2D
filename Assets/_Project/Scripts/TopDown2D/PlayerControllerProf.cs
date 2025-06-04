@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerControllerProf : MonoBehaviour
 {
     private TopDownMover2D _mover;
     private Animator _anim;

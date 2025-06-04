@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LifeController : MonoBehaviour
+public class LifeControllerProf : MonoBehaviour
 {
     public enum ON_DEFEAT_BEHAVIOUR { DISABLE = 0, DESTROY = 1, NONE = 2 }
 
